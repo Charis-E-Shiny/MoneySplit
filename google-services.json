@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61525137938",
+    "project_id": "paisavasool-8fafe",
+    "storage_bucket": "paisavasool-8fafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61525137938:android:aa4c1723cf5c950d14d6cb",
+        "android_client_info": {
+          "package_name": "com.paisavasool.paisa_vasool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61525137938-u8jbn5r44ggb2ubprl7junflmvnuc47i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF51zh8IYCIWq721P3y4mVCjgM2YQKs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61525137938-u8jbn5r44ggb2ubprl7junflmvnuc47i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
